@@ -1,0 +1,4 @@
+name: PluginChannel
+main: cc.i9mc.pluginchannel.BukkitChannel
+version: 1.5
+author: JinVan

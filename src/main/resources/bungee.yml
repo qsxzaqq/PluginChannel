@@ -1,0 +1,4 @@
+name: PluginChannel
+main: cc.i9mc.pluginchannel.BungeeChannel
+version: 1.5
+author: JinVan
